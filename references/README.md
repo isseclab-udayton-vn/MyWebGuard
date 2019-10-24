@@ -2,10 +2,16 @@
 
 ## JavaScript Monitoring
 
-### MyWebGuard (FDSE'2019)
+### 1. MyWebGuard (FDSE'2019)
 
     ???
     
-### FlashJax (TDSE'2015)
+### 2. FlashJax (TDSE'2015)
 
     ???
+
+## Browser impementation
+
+### Brave
+
+    TODO
